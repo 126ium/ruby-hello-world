@@ -1,4 +1,5 @@
-source 'https://rubygems.org'
+#source 'https://rubygems.org'
+source 'https://mirrors.ustc.edu.cn/rubygems/'
 
 gem 'sinatra'
 gem 'sinatra-activerecord'
